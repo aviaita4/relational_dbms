@@ -1,0 +1,61 @@
+# Created by .ignore support plugin (hsz.mobi)
+### C++ template
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+cmake-build-debug
+.idea
+src/rbf/rbftest1.cc
+src/rbf/rbftest10.cc
+src/rbf/rbftest11.cc
+src/rbf/rbftest12.cc
+src/rbf/rbftest2.cc
+src/rbf/rbftest3.cc
+src/rbf/rbftest4.cc
+src/rbf/rbftest5.cc
+src/rbf/rbftest6.cc
+src/rbf/rbftest7.cc
+src/rbf/rbftest8.cc
+src/rbf/rbftest8b.cc
+src/rbf/rbftest9.cc
+src/rbf/rbftest_delete.cc
+src/rbf/rbftest_p0.cc
+src/rbf/rbftest_p1.cc
+src/rbf/rbftest_p1b.cc
+src/rbf/rbftest_p1c.cc
+src/rbf/rbftest_p2.cc
+src/rbf/rbftest_p2b.cc
+src/rbf/rbftest_p3.cc
+src/rbf/rbftest_p4.cc
+src/rbf/rbftest_p5.cc
+src/rbf/rbftest_update.cc
